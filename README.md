@@ -5,11 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
 Software Engineering is a branch of science that deals with developing, testing and maintaining software.
 
 Importance in the technology industry
-
 Reliability ensures that software functions as intended and without bias, particularly for essential applications such as healthcare and banking. 
 Efficiency - it aids in optimizing development process while upholding high quality standards.
  Scalability and flexibility ensure that the system can accommodate a higher load without compromising performance.
@@ -22,7 +20,6 @@ Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
  planning - this is the first step, you identify the software requirement or purpose and scope.
  requirement analysis -secondly, you then identify the final user specification. 
 design - thirdly, you build the framework. 
@@ -31,7 +28,6 @@ coding - forth, you convert your software design into tangible code.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
 Waterfall methodology - it has a Linear and sequential procedure, as each phase is completed before moving on. 
 - There is Low flexibility, as changes are hard to incorporate once a phase is complete.
  - Customers' feedback comes late, after the product is developed.
@@ -44,7 +40,6 @@ Agile methodology - it is Iterative and incremental, with multiple cycles (sprin
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
 Software Developer - develops applications,programs and systems using programming languages and frameworks.
  - Maintains and updates software to keep it functional. 
 - Collaborates with other team members to ensure best practice when developing software.
@@ -55,18 +50,14 @@ Quality Assurance Engineer - Collaborates with stakeholders to understand and cl
  - Confirms that the software meets the requirement before deployment. 
 - Analyses the product to identify bugs and suggest changes to make them more efficient. 
 - Develops and execute automation scripts using open source tools.
-- 
+  
 Project Manager - assembles and lead the software development team.
  - Discusses the project and it's requirement with the client and software developers.
  - Creates a blueprint for the project.
  - Tracks and communicates information regarding the project milestone.
  - Delivers the complete software to the client and regularly check its performance.
-
-
-
-
+   
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 
 importance:
@@ -86,7 +77,6 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
@@ -101,8 +91,6 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
-
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
@@ -112,9 +100,7 @@ Unit tests - are close to the source of an application, They consist in testing 
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
