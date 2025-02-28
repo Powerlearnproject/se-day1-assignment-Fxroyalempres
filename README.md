@@ -15,6 +15,7 @@ Efficiency - it aids in optimizing development process while upholding high qual
  Scalability and flexibility ensure that the system can accommodate a higher load without compromising performance.
  Implement security practices such as authentication, authorization, and encryption to protect users' information. 
  
+ 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 mastering complexity
