@@ -126,6 +126,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
