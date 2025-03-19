@@ -33,7 +33,7 @@ Software engineering is the systematic application of engineering principles to 
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
 
-- *planning* - this is the first step, establish the project's scope, software needs, and objectives.
+- *Planning* - this is the first step, establish the project's scope, software needs, and objectives.
  
  - *Requirement analysis* -secondly, Collect and analyze user needs to identify functional and non-functional requirements.
  
@@ -76,7 +76,7 @@ Software engineering is the systematic application of engineering principles to 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 *Software Developer*
-- develops applications,programs and systems using programming languages and frameworks.
+- Develops applications,programs and systems using programming languages and frameworks.
  - Maintains and updates software to keep it functional. 
 - Collaborates with other team members to ensure best practice when developing software.
  - Reports to the project manager about the progress of the software development.
@@ -107,48 +107,53 @@ An integrated development environment (IDE) is a software platform that allows y
 - When a developer starts typing, an IDE can advise how to complete a code statement.
 - IDEs boost programmer productivity by automating repetitive development procedures that are frequently included with each code change.  The following are some instances of regular coding chores performed by an IDE.
 
-An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
-The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
+- An IDE compiles or translates the code to a simplified language that the operating system can understand.  Some programming languages provide just-in-time compilation, which means that the IDE translates human-readable code from within the application to machine code.
+- Before integrating the product with other developers' code and doing more extensive integration tests, developers can automate unit tests locally using the IDE.
+- The Debugging IDE allows you to step through the code, line by line, while it executes and observe code behavior.  IDEs also include a number of debugging tools that reveal errors produced by humans in real time, even as the developer types.
 
-Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
-importance:
-Collaboration: Enables multiple developers to work on the same codebase without conflicts.
-Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
--Branching and Merging: Supports creating branches for new features and merging them back into the main code.
-Error Recovery: Allows reverting to previous versions if new changes introduce errors
+
+*Version Control Systems (VCS)* are software solutions that enable development teams manage source code changes over time.  eg Git
+
+### Importance:
+- *Collaboration*: Allows numerous developers to collaborate on the same codebase without disagreements.
+- *Change Tracking*: Keeps a thorough record of modifications, making it easy to analyze each update. 
+- *Branching and Merging*: Allows you to create branches for new features and merge them back into the main codebase.
+- *Error Recovery*: Enables reverting to prior versions when new modifications cause errors.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
--rapid technological advancement places considerable pressure on software engineers to stay current.
+-*Rapid technology innovation* - this puts significant strain on software engineers to stay current.
 
- Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.
+  **Solution**: implementing continuous learning methods and agile approaches to adapt to emerging trends, thereby maintaining their abilities in an ever-changing sector.
  
-Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
+ - *Time Constraints* - Software engineering is a tough and time-consuming job that frequently requires engineers to work under pressure to meet deadlines.
 
- Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
+**Solution**: use agile approaches, such as Scrum, to streamline workflows by breaking down large projects into manageable sprints. 
  
--Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
+-*Limited Infrastructure* - There are few high-performance software engineering tools and computing platforms, as well as inefficient data storage structures. 
 
- Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
+  **Solution**: In order to do their work properly, software engineers must rely substantially on a strong infrastructure.
  
-Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
+- *Changing Software Requirements* - Software requirements are frequently dynamic and prone to change, making it difficult for engineers to design and develop solutions that suit the demands of users while accounting for future upgrades and bugs. 
 
-Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
+ **Solution**: Engineers can use methodologies like agile development, which emphasizes iterative progress and adaptability, and modular design, which allows for flexibility by splitting down systems into manageable, separate components.
 
-Software Security - Programming secure software is a complex and challenging task. 
+- *Programming secure software* is a sophisticated and difficult task. 
 
-Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
+ **Solution**: investigate methods to fight against hacking, malware, phishing, insider, and third-party threats.
 
-Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
+- *Software Accessibility and Usability* - Complicated software can frustrate or confuse users. 
 
-Solution: Use scalable architecture, Emphasize reliability.
+**Solution**: Implement scalable architecture and prioritize dependability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
- Integration tests - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected.
+- **Unit tests** are performed near to the application's source code and consist of testing specific methods and functions of the classes, components, or modules utilized by your product.
+- It ensures that each unit executes its intended purpose correctly while remaining isolated from other components.
+  
+**Integration tests** - ensure that different modules or services in your application operate properly together.
+- Contribute to ensuring that data flows easily between modules and that interfaces function properly.
+    
  System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
