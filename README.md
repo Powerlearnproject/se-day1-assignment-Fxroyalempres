@@ -148,37 +148,42 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 ## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-- **Unit tests** are performed near to the application's source code and consist of testing specific methods and functions of the classes, components, or modules utilized by your product.
-- It ensures that each unit executes its intended purpose correctly while remaining isolated from other components.
-  
-**Integration tests** - ensure that different modules or services in your application operate properly together.
-- Contribute to ensuring that data flows easily between modules and that interfaces function properly.
-    
- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
-Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- Whether the software meets the needs of the end-user and is ready for deployment.
+- **Unit testing** - isolates individual components or functions of the application.
+- **Integration testing** - ensures correct data flow between modules.
+- **System testing** - assesses overall functionality, usability, and security.
+- **Acceptance testing** - ensures software meets user requirements before deployment.
 
+  ### Importance of testing in software quality assurance
+  
+  
 # Part 2: Introduction to AI and Prompt Engineering
 
 ## Define prompt engineering and discuss its importance in interacting with AI models.
 
-*Prompt engineering*  is the process where you guide generative AI solutions to generate desired outputs.
+*Prompt engineering* is the practice of creating inputs (prompts) to help AI models produce the intended results.
 
 ### Importance:
 
-Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
-Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. 
+- **Improved user experience**  - Prompt engineering makes it simple for users to get relevant results from the first prompt.  It aids in mitigating bias that may occur in the training data of big language models due to existing human biases.
+- **Increased adaptability** - A prompt engineer can develop prompts with domain-neutral instructions that highlight logical relationships and broad patterns.
+ Prompt engineering provides developers more control over how users interact with the AI.  Effective prompts convey intent to huge language models while also establishing context. 
 
 ## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Prompt is vague.
 
-## Draw a picture of a person
+ *"Draw a car."*
 
-## Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+ ### Improved promptness:
 
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
-Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+ *"Draw a sleek, red sports car with black racing stripes, tinted windows, and silver rims, parked on a mountain road with a sunset in the background."*
 
+ ### Why is it a better option?
+
+ 1. **Clarity** - It describes the type of car (a sleek red sports car).
+
+
+ 2. **Specific Details** - It specifies the vehicle's appearance (red, black racing stripes, tinted windows, silver rims) as well as the surroundings (mountain road, sunset background).
+
+
+ 3. **Conciseness** - It includes enough detail to guide the artist without overwhelming them.
 
