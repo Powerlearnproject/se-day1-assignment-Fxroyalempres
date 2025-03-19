@@ -92,8 +92,7 @@ Software engineering is the systematic application of engineering principles to 
 - Develops and execute automation scripts using open source tools.
 
   
-*Project Manager* 
-- assembles and lead the software development team.
+*Project Manager* - assembles and lead the software development team.
  - Discusses the project and it's requirement with the client and software developers.
  - Creates a blueprint for the project.
  - Tracks and communicates information regarding the project milestone.
