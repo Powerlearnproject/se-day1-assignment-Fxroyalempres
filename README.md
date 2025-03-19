@@ -13,39 +13,39 @@ Software engineering is the systematic application of engineering principles to 
 
 ## Importance in the technology industry
 
-*Reliability* ensures that software functions as intended and without bias, particularly for essential applications such as healthcare and banking. 
+1. *Reliability* ensures that software functions as intended and without bias, particularly for essential applications such as healthcare and banking. 
 
-*Efficiency* - it aids in optimizing development process while upholding high quality standards.
+2. *Efficiency* - it aids in optimizing development process while upholding high quality standards.
 
- *Scalability and flexibility* ensure that the system can accommodate a higher load without compromising performance.
+ 3. *Scalability and flexibility* ensure that the system can accommodate a higher load without compromising performance.
  
- *Implement security* practices such as authentication, authorization, and encryption to protect users' information. 
+ 4. *Implement security* practices such as authentication, authorization, and encryption to protect users' information. 
  
  
 ## Identify and describe at least three key milestones in the evolution of software engineering.
 
-*Mastering Complexity* - Early software development encountered hurdles owing to rising complexity.  To successfully manage complexity, engineers developed structured programming and modular design.
+1. *Mastering Complexity* - Early software development encountered hurdles owing to rising complexity.  To successfully manage complexity, engineers developed structured programming and modular design.
 
-*Mastering process* - The use of structured software development approaches, such as the Software Development Life Cycle (SDLC) and Agile, increased efficiency and reliability.
+2. *Mastering process* - The use of structured software development approaches, such as the Software Development Life Cycle (SDLC) and Agile, increased efficiency and reliability.
 
-*Mastering machine* - Improvements in computer hardware and software, such as compilers, operating systems, and programming languages, made software development more accessible and powerful. 
+3. *Mastering machine* - Improvements in computer hardware and software, such as compilers, operating systems, and programming languages, made software development more accessible and powerful. 
 
 
 ## List and briefly explain the phases of the Software Development Life Cycle.
 
-*planning* - this is the first step, establish the project's scope, software needs, and objectives.
+- *planning* - this is the first step, establish the project's scope, software needs, and objectives.
  
- *Requirement analysis* -secondly, Collect and analyze user needs to identify functional and non-functional requirements.
+ - *Requirement analysis* -secondly, Collect and analyze user needs to identify functional and non-functional requirements.
  
-*Design* - thirdly,Create software architecture and system components, including UI/UX and database structure.
+- *Design* - thirdly,Create software architecture and system components, including UI/UX and database structure.
  
-*Coding* - forth, you convert your software design into tangible code, using programming languages.
+- *Coding* - forth, you convert your software design into tangible code, using programming languages.
 
- *Testing* - lastly, Identify and resolve defects to ensure the software functions properly and satisfies requirements.
+ - *Testing* - lastly, Identify and resolve defects to ensure the software functions properly and satisfies requirements.
 
-*Deployment* - Release the software to users, either in a gradual method or all at once.
+- *Deployment* - Release the software to users, either in a gradual method or all at once.
 
-*Maintenance* - updates, fixes errors, and improves the product over time based on user feedback.
+- *Maintenance* - updates, fixes errors, and improves the product over time based on user feedback.
 
 
 ## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -77,18 +77,23 @@ Software engineering is the systematic application of engineering principles to 
 
 ## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Software Developer - develops applications,programs and systems using programming languages and frameworks.
+*Software Developer*
+- develops applications,programs and systems using programming languages and frameworks.
  - Maintains and updates software to keep it functional. 
 - Collaborates with other team members to ensure best practice when developing software.
  - Reports to the project manager about the progress of the software development.
- - 
-Quality Assurance Engineer - Collaborates with stakeholders to understand and clarify software requirement.
+
+   
+*Quality Assurance Engineer*
+- Collaborates with stakeholders to understand and clarify software requirement.
  - Creates development standards and procedures for the programmers to follow
  - Confirms that the software meets the requirement before deployment. 
 - Analyses the product to identify bugs and suggest changes to make them more efficient. 
 - Develops and execute automation scripts using open source tools.
+
   
-Project Manager - assembles and lead the software development team.
+*Project Manager* 
+- assembles and lead the software development team.
  - Discusses the project and it's requirement with the client and software developers.
  - Creates a blueprint for the project.
  - Tracks and communicates information regarding the project milestone.
@@ -152,23 +157,23 @@ Unit tests - are close to the source of an application, They consist in testing 
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment.
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Define prompt engineering and discuss its importance in interacting with AI models.
 
-prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+*Prompt engineering*  is the process where you guide generative AI solutions to generate desired outputs.
 
-Importance:
+### Importance:
 
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Draw a picture of a person
+## Draw a picture of a person
 
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+## Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
